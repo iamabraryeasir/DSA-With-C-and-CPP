@@ -1,2 +1,3 @@
-# dsa-with-c-and-cpp
+# DSA With C & C++
+
 Learning DSA with C++
